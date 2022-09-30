@@ -1,0 +1,23 @@
+.form{
+    margin-bottom: 20px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.inputHome{
+    border: 1px solid #8c8377;
+    border-radius: 5px;
+    height: 20px;
+    width: 150px;
+    margin-bottom: 20px;
+}
+.selectHome{
+    border: 1px solid #8c8377;
+    border-radius: 5px;
+    height: 24px;
+    width: 150px;
+}
+#pais{
+    margin-top: 21px;
+}

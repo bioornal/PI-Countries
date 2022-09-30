@@ -1,0 +1,17 @@
+.foto{
+    border: none;
+    height: 30px;
+    width: 30px;
+    margin-left: 40px;
+}
+footer{
+    display: flex;
+    background-color: #8c8377;
+    justify-content:center;
+    align-items: center;
+    margin-top: 30px;
+}
+.p{
+    color:#fffaf2;
+    
+}

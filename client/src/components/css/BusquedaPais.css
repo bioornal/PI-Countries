@@ -1,0 +1,35 @@
+#caja{
+    border-radius: 15px;
+}
+.boton{
+    margin-top: 10px;
+    background-color: #ffe829;
+    border: 1px solid #321906;
+    padding: 5px;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.detalleTodo2{
+    position:fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-family: 'Maven Pro', sans-serif;
+}
+.dentro2{
+    padding: 1rem;
+    position:relative;
+    min-width: 320px;
+    max-width: 480px;
+    min-height: 200px;
+    max-height: 800px; overflow-y: auto;
+    background-color: #fffaf2;
+    text-align: center;
+}

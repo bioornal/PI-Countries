@@ -1,0 +1,52 @@
+.detalleTodo{
+    position:fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Maven Pro', sans-serif;
+    
+}
+
+.dentro{
+    padding: 1rem;
+    position:relative;
+    min-width: 320px;
+    max-width: 480px;
+    min-height: 200px;
+    max-height: 800px; 
+    overflow-y: auto;
+    background-color: #fffaf2;
+    text-align: center;
+    
+}
+.actividades{
+    padding: 1rem;
+    position:relative;
+    width: 350px;
+    height: 600px; 
+    overflow-y: auto;
+    background-color: #fffaf2;
+    text-align: left;
+    background-color: #fffb5b;
+    font-family: 'Maven Pro', sans-serif;
+}
+img{
+    border-radius: 20px;
+    border:1px black solid;
+    padding: 4px;
+    width: 350px;
+    height: 220px;
+
+}
+h4{
+    text-decoration: underline;
+}
+.sinActividad{
+    font-size: large;
+}

@@ -1,0 +1,5 @@
+.color1 {color: #ffe829;} amarillo oscuro
+.color2 {color: #fffb5b;} amarillo suave
+.color3 {color: #321906;} marron muy oscuro
+.color4 {color: #8c8377;} gris amarronado
+.color5 {color: #fffaf2;} arena

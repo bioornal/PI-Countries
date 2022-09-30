@@ -1,0 +1,35 @@
+.contenedor{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    min-height: 633px;
+    
+}
+.card{
+    display:block;
+    justify-content: center;
+    border: #321906 solid 1px;
+    border-radius: 20px;
+    background: #fffb5b;
+    margin: 8px;
+    padding: 12px;
+    width: 200px;
+    box-sizing: border-box;
+    height: 250px;
+    font-family: 'Maven Pro', sans-serif;
+    color: #321906;
+  }
+  .card:hover{
+    background: #ffe829;
+  }
+  .imagenCard{
+    border: 1px solid #321906;
+    border-radius: 4px;
+    padding: 5px;
+    width: 80%;
+    height: 40%;
+  }
+  .link{
+    text-decoration: none;
+  }
