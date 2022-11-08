@@ -2,10 +2,6 @@
 
 # Final Project Henry - Qatar e-commerce
 
-<p align="left">
-  <img height="200" src="./countries.png" />
-</p>
-
 ## Objetivos del Proyecto
 
 - Construir una App utlizando React, Redux, Node y Sequelize.
