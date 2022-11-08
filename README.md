@@ -2,13 +2,17 @@
 
 # Final Project Henry - Qatar e-commerce
 
+<p align="left">
+  <img height="200" src="./countries.png" />
+</p>
+
 ## Objetivos del Proyecto
 
 - Construir una App utlizando React, Redux, Node y Sequelize.
 - Afirmar y conectar los conceptos aprendidos en la carrera.
 - Aprender mejores prácticas.
 - Aprender y practicar el workflow de GIT.
-- Investigaciín y puesta en práctica de nuevas tecnologías que no se enseñan en el bootcamp.
+- Investigación y puesta en práctica de nuevas tecnologías que no se enseñan en el bootcamp.
 
 ## Horarios y Fechas
 
